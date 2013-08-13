@@ -5,7 +5,6 @@
 .settings/
 .*.sw*
 .*.un~
-build/
 composer.lock
 nbproject
 tmp/
